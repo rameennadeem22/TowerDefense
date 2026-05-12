@@ -18,7 +18,7 @@ Bomb Tower: Implements Area of Effect (AoE) splash damage logic.
 
 Grid-Based Placement: A tile-based system that prevents building on the path or overlapping towers.
 
-Wave System: A structured 5-wave challenge with increasing difficulty and unique spawn staggering.
+Wave System: A structured 5-wave challenge with increasing difficulty.
 
 Dynamic Interface: Real-time tracking of Gold, Lives, Wave count, and Tower selection.
 
