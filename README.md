@@ -51,6 +51,4 @@ SFML Library installed and linked.
 
 Assets: Ensure arial.ttf and required sprite images are in the project root directory.
 
-Bash
-g++ *.cpp -o TowerDefense -lsfml-graphics -lsfml-window -lsfml-system
-Assets: Ensure arial.ttf and any required sprite images are in the project root directory.
+Enjoy!
